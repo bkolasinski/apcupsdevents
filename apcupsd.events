@@ -1,0 +1,71 @@
+2024-07-31 11:19:38 +0100  apcupsd 3.14.14 (31 May 2016) debian startup succeeded
+2024-07-31 11:20:48 +0100  Communications with UPS lost.
+2024-07-31 11:22:27 +0100  apcupsd exiting, signal 15
+2024-07-31 11:22:27 +0100  apcupsd shutdown succeeded
+2024-07-31 11:23:43 +0100  apcupsd 3.14.14 (31 May 2016) debian startup succeeded
+2024-07-31 11:24:48 +0100  Communications with UPS lost.
+2024-07-31 11:30:30 +0100  apcupsd exiting, signal 15
+2024-07-31 11:30:30 +0100  apcupsd shutdown succeeded
+2024-07-31 14:08:20 +0100  apcupsd 3.14.14 (31 May 2016) debian startup succeeded
+2024-07-31 14:10:11 +0100  Power failure.
+2024-07-31 14:10:17 +0100  Running on UPS batteries.
+2024-07-31 14:10:19 +0100  Mains returned. No longer on UPS batteries.
+2024-07-31 14:10:19 +0100  Power is back. UPS running on mains.
+2024-07-31 14:10:41 +0100  Battery disconnected.
+2024-07-31 14:10:42 +0100  Battery reattached.
+2024-07-31 14:10:49 +0100  Battery disconnected.
+2024-07-31 14:10:50 +0100  Battery reattached.
+2024-07-31 14:11:00 +0100  Battery disconnected.
+2024-07-31 14:11:01 +0100  Battery reattached.
+2024-07-31 14:13:04 +0100  Battery disconnected.
+2024-07-31 14:13:05 +0100  Battery reattached.
+2024-07-31 14:13:41 +0100  Battery disconnected.
+2024-07-31 14:13:42 +0100  Battery reattached.
+2024-07-31 14:14:14 +0100  apcupsd exiting, signal 15
+2024-07-31 14:14:14 +0100  apcupsd shutdown succeeded
+2024-07-31 14:16:29 +0100  apcupsd 3.14.14 (31 May 2016) debian startup succeeded
+2024-07-31 14:16:39 +0100  Battery disconnected.
+2024-07-31 14:16:40 +0100  Battery reattached.
+2024-07-31 14:17:24 +0100  Power failure.
+2024-07-31 14:17:30 +0100  Running on UPS batteries.
+2024-07-31 14:17:35 +0100  Mains returned. No longer on UPS batteries.
+2024-07-31 14:17:35 +0100  Power is back. UPS running on mains.
+2024-07-31 14:18:50 +0100  Battery disconnected.
+2024-07-31 14:18:51 +0100  Battery reattached.
+2024-07-31 14:19:52 +0100  Battery disconnected.
+2024-07-31 14:19:53 +0100  Battery reattached.
+2024-07-31 14:22:49 +0100  Battery disconnected.
+2024-07-31 14:22:50 +0100  Battery reattached.
+2024-07-31 14:23:27 +0100  Battery disconnected.
+2024-07-31 14:23:28 +0100  Battery reattached.
+2024-07-31 14:26:17 +0100  Battery disconnected.
+2024-07-31 14:26:18 +0100  Battery reattached.
+2024-07-31 14:26:28 +0100  Battery disconnected.
+2024-07-31 14:26:29 +0100  Battery reattached.
+2024-07-31 14:26:45 +0100  Battery disconnected.
+2024-07-31 14:26:46 +0100  UPS battery must be replaced.
+2024-07-31 14:26:46 +0100  Battery reattached.
+2024-07-31 14:27:47 +0100  Battery disconnected.
+2024-07-31 14:27:48 +0100  Battery reattached.
+2024-07-31 14:29:45 +0100  Battery disconnected.
+2024-07-31 14:29:46 +0100  Battery reattached.
+2024-07-31 14:30:36 +0100  Battery disconnected.
+2024-07-31 14:30:37 +0100  Battery reattached.
+2024-07-31 14:32:15 +0100  Battery disconnected.
+2024-07-31 14:32:16 +0100  Battery reattached.
+2024-07-31 14:32:51 +0100  Battery disconnected.
+2024-07-31 14:33:02 +0100  Battery reattached.
+2024-07-31 14:33:03 +0100  Battery disconnected.
+2024-07-31 14:33:14 +0100  Battery reattached.
+2024-07-31 14:33:40 +0100  Battery disconnected.
+2024-07-31 14:33:41 +0100  Battery reattached.
+2024-07-31 14:35:06 +0100  Battery disconnected.
+2024-07-31 14:35:07 +0100  Battery reattached.
+2024-07-31 14:36:09 +0100  Battery disconnected.
+2024-07-31 14:36:10 +0100  Battery reattached.
+2024-07-31 14:37:16 +0100  Battery disconnected.
+2024-07-31 14:37:17 +0100  Battery reattached.
+2024-07-31 14:38:42 +0100  Battery disconnected.
+2024-07-31 14:38:43 +0100  Battery reattached.
+2024-07-31 14:39:13 +0100  Battery disconnected.
+2024-07-31 14:39:14 +0100  Battery reattached.
