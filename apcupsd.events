@@ -1,46 +1,3 @@
-2024-07-31 14:46:20 +0100  Battery disconnected.
-2024-07-31 14:46:21 +0100  Battery reattached.
-2024-07-31 14:46:39 +0100  Battery disconnected.
-2024-07-31 14:46:40 +0100  Battery reattached.
-2024-07-31 14:47:26 +0100  Battery disconnected.
-2024-07-31 14:47:27 +0100  Battery reattached.
-2024-07-31 14:47:31 +0100  Battery disconnected.
-2024-07-31 14:47:32 +0100  Battery reattached.
-2024-07-31 14:49:25 +0100  Power failure.
-2024-07-31 14:49:26 +0100  Power is back. UPS running on mains.
-2024-07-31 14:49:27 +0100  Power failure.
-2024-07-31 14:49:27 +0100  Battery disconnected.
-2024-07-31 14:49:30 +0100  Power is back. UPS running on mains.
-2024-07-31 14:49:41 +0100  Battery reattached.
-2024-07-31 14:51:24 +0100  Battery disconnected.
-2024-07-31 14:51:25 +0100  Battery reattached.
-2024-07-31 14:51:45 +0100  Battery disconnected.
-2024-07-31 14:51:46 +0100  Battery reattached.
-2024-07-31 14:52:09 +0100  Battery disconnected.
-2024-07-31 14:52:10 +0100  Battery reattached.
-2024-07-31 14:53:10 +0100  Battery disconnected.
-2024-07-31 14:53:11 +0100  Battery reattached.
-2024-07-31 14:53:52 +0100  Battery disconnected.
-2024-07-31 14:53:53 +0100  Battery reattached.
-2024-07-31 14:57:53 +0100  Battery disconnected.
-2024-07-31 14:57:54 +0100  Battery reattached.
-2024-07-31 14:58:39 +0100  Battery disconnected.
-2024-07-31 14:58:40 +0100  Battery reattached.
-2024-07-31 15:01:30 +0100  Battery disconnected.
-2024-07-31 15:01:31 +0100  Battery reattached.
-2024-07-31 15:03:36 +0100  Battery disconnected.
-2024-07-31 15:03:37 +0100  Battery reattached.
-2024-07-31 15:04:08 +0100  Battery disconnected.
-2024-07-31 15:04:09 +0100  Battery reattached.
-2024-07-31 15:09:43 +0100  Battery disconnected.
-2024-07-31 15:09:44 +0100  Battery reattached.
-2024-07-31 15:09:53 +0100  Battery disconnected.
-2024-07-31 15:09:54 +0100  Battery reattached.
-2024-07-31 15:10:28 +0100  Battery disconnected.
-2024-07-31 15:10:29 +0100  Battery reattached.
-2024-07-31 15:10:39 +0100  Battery disconnected.
-2024-07-31 15:10:40 +0100  Battery reattached.
-2024-07-31 15:11:18 +0100  Battery disconnected.
 2024-07-31 15:11:29 +0100  Battery reattached.
 2024-07-31 15:12:06 +0100  Battery disconnected.
 2024-07-31 15:12:07 +0100  Battery reattached.
@@ -178,3 +135,23 @@
 2024-07-31 17:58:37 +0200  UPS Self Test completed: Battery OK
 2024-07-31 17:59:16 +0200  UPS Self Test switch to battery.
 2024-07-31 17:59:17 +0200  UPS Self Test completed: Battery OK
+2024-07-31 18:00:16 +0200  UPS Self Test switch to battery.
+2024-07-31 18:00:16 +0200  Power is back. UPS running on mains.
+2024-07-31 18:03:06 +0200  UPS Self Test switch to battery.
+2024-07-31 18:03:07 +0200  UPS Self Test completed: Battery OK
+2024-07-31 18:04:31 +0200  Battery disconnected.
+2024-07-31 18:04:32 +0200  Battery reattached.
+2024-07-31 18:04:36 +0200  Battery disconnected.
+2024-07-31 18:04:37 +0200  Battery reattached.
+2024-07-31 18:07:34 +0200  Battery disconnected.
+2024-07-31 18:07:35 +0200  Battery reattached.
+2024-07-31 18:09:57 +0200  Battery disconnected.
+2024-07-31 18:09:58 +0200  Battery reattached.
+2024-07-31 18:10:53 +0200  Battery disconnected.
+2024-07-31 18:10:54 +0200  Battery reattached.
+2024-07-31 18:12:19 +0200  Battery disconnected.
+2024-07-31 18:12:20 +0200  Battery reattached.
+2024-07-31 18:12:49 +0200  Battery disconnected.
+2024-07-31 18:12:50 +0200  Battery reattached.
+2024-07-31 18:14:10 +0200  Battery disconnected.
+2024-07-31 18:14:11 +0200  Battery reattached.
