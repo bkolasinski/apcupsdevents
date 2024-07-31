@@ -1,42 +1,3 @@
-2024-07-31 11:19:38 +0100  apcupsd 3.14.14 (31 May 2016) debian startup succeeded
-2024-07-31 11:20:48 +0100  Communications with UPS lost.
-2024-07-31 11:22:27 +0100  apcupsd exiting, signal 15
-2024-07-31 11:22:27 +0100  apcupsd shutdown succeeded
-2024-07-31 11:23:43 +0100  apcupsd 3.14.14 (31 May 2016) debian startup succeeded
-2024-07-31 11:24:48 +0100  Communications with UPS lost.
-2024-07-31 11:30:30 +0100  apcupsd exiting, signal 15
-2024-07-31 11:30:30 +0100  apcupsd shutdown succeeded
-2024-07-31 14:08:20 +0100  apcupsd 3.14.14 (31 May 2016) debian startup succeeded
-2024-07-31 14:10:11 +0100  Power failure.
-2024-07-31 14:10:17 +0100  Running on UPS batteries.
-2024-07-31 14:10:19 +0100  Mains returned. No longer on UPS batteries.
-2024-07-31 14:10:19 +0100  Power is back. UPS running on mains.
-2024-07-31 14:10:41 +0100  Battery disconnected.
-2024-07-31 14:10:42 +0100  Battery reattached.
-2024-07-31 14:10:49 +0100  Battery disconnected.
-2024-07-31 14:10:50 +0100  Battery reattached.
-2024-07-31 14:11:00 +0100  Battery disconnected.
-2024-07-31 14:11:01 +0100  Battery reattached.
-2024-07-31 14:13:04 +0100  Battery disconnected.
-2024-07-31 14:13:05 +0100  Battery reattached.
-2024-07-31 14:13:41 +0100  Battery disconnected.
-2024-07-31 14:13:42 +0100  Battery reattached.
-2024-07-31 14:14:14 +0100  apcupsd exiting, signal 15
-2024-07-31 14:14:14 +0100  apcupsd shutdown succeeded
-2024-07-31 14:16:29 +0100  apcupsd 3.14.14 (31 May 2016) debian startup succeeded
-2024-07-31 14:16:39 +0100  Battery disconnected.
-2024-07-31 14:16:40 +0100  Battery reattached.
-2024-07-31 14:17:24 +0100  Power failure.
-2024-07-31 14:17:30 +0100  Running on UPS batteries.
-2024-07-31 14:17:35 +0100  Mains returned. No longer on UPS batteries.
-2024-07-31 14:17:35 +0100  Power is back. UPS running on mains.
-2024-07-31 14:18:50 +0100  Battery disconnected.
-2024-07-31 14:18:51 +0100  Battery reattached.
-2024-07-31 14:19:52 +0100  Battery disconnected.
-2024-07-31 14:19:53 +0100  Battery reattached.
-2024-07-31 14:22:49 +0100  Battery disconnected.
-2024-07-31 14:22:50 +0100  Battery reattached.
-2024-07-31 14:23:27 +0100  Battery disconnected.
 2024-07-31 14:23:28 +0100  Battery reattached.
 2024-07-31 14:26:17 +0100  Battery disconnected.
 2024-07-31 14:26:18 +0100  Battery reattached.
@@ -173,3 +134,41 @@
 2024-07-31 15:44:21 +0100  Battery reattached.
 2024-07-31 15:44:25 +0100  Battery disconnected.
 2024-07-31 15:44:26 +0100  Battery reattached.
+2024-07-31 15:45:09 +0100  apcupsd exiting, signal 15
+2024-07-31 15:45:09 +0100  apcupsd shutdown succeeded
+2024-07-31 16:45:50 +0200  apcupsd 3.14.14 (31 May 2016) debian startup succeeded
+2024-07-31 16:45:52 +0200  UPS Self Test switch to battery.
+2024-07-31 16:45:52 +0200  Power is back. UPS running on mains.
+2024-07-31 16:45:53 +0200  UPS Self Test switch to battery.
+2024-07-31 16:45:53 +0200  UPS Self Test completed: Battery OK
+2024-07-31 16:45:53 +0200  UPS Self Test switch to battery.
+2024-07-31 16:45:53 +0200  UPS Self Test completed: Battery OK
+2024-07-31 16:45:54 +0200  UPS Self Test switch to battery.
+2024-07-31 16:45:54 +0200  UPS Self Test completed: Battery OK
+2024-07-31 16:45:55 +0200  UPS Self Test switch to battery.
+2024-07-31 16:45:55 +0200  UPS Self Test completed: Battery OK
+2024-07-31 16:45:55 +0200  UPS Self Test switch to battery.
+2024-07-31 16:45:55 +0200  UPS Self Test completed: Battery OK
+2024-07-31 16:45:56 +0200  UPS Self Test switch to battery.
+2024-07-31 16:45:56 +0200  UPS Self Test completed: Battery OK
+2024-07-31 16:45:56 +0200  UPS Self Test switch to battery.
+2024-07-31 16:45:56 +0200  UPS Self Test completed: Battery OK
+2024-07-31 16:45:57 +0200  UPS Self Test switch to battery.
+2024-07-31 16:45:57 +0200  UPS Self Test completed: Battery OK
+2024-07-31 16:45:58 +0200  UPS Self Test switch to battery.
+2024-07-31 16:45:58 +0200  UPS Self Test completed: Battery OK
+2024-07-31 16:45:58 +0200  UPS Self Test switch to battery.
+2024-07-31 16:45:58 +0200  UPS Self Test completed: Battery OK
+2024-07-31 16:45:59 +0200  UPS Self Test switch to battery.
+2024-07-31 16:45:59 +0200  UPS Self Test completed: Battery OK
+2024-07-31 16:46:00 +0200  UPS Self Test switch to battery.
+2024-07-31 16:46:00 +0200  UPS Self Test completed: Battery OK
+2024-07-31 16:46:00 +0200  UPS Self Test switch to battery.
+2024-07-31 16:46:00 +0200  UPS Self Test completed: Battery OK
+2024-07-31 16:46:01 +0200  UPS Self Test switch to battery.
+2024-07-31 16:46:01 +0200  UPS Self Test completed: Battery OK
+2024-07-31 17:03:52 +0200  UPS Self Test switch to battery.
+2024-07-31 17:03:52 +0200  UPS Self Test completed: Battery OK
+2024-07-31 17:03:52 +0200  UPS battery must be replaced.
+2024-07-31 17:08:30 +0200  Battery disconnected.
+2024-07-31 17:08:31 +0200  Battery reattached.
