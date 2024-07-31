@@ -1,42 +1,3 @@
-2024-07-31 17:47:56 +0200  UPS Self Test completed: Battery OK
-2024-07-31 17:48:31 +0200  UPS Self Test switch to battery.
-2024-07-31 17:48:32 +0200  UPS Self Test completed: Battery OK
-2024-07-31 17:48:57 +0200  UPS Self Test switch to battery.
-2024-07-31 17:48:58 +0200  UPS Self Test completed: Battery OK
-2024-07-31 17:49:31 +0200  UPS Self Test switch to battery.
-2024-07-31 17:49:32 +0200  UPS Self Test completed: Battery OK
-2024-07-31 17:49:56 +0200  UPS Self Test switch to battery.
-2024-07-31 17:49:57 +0200  UPS Self Test completed: Battery OK
-2024-07-31 17:50:20 +0200  UPS Self Test switch to battery.
-2024-07-31 17:50:20 +0200  UPS Self Test completed: Battery OK
-2024-07-31 17:54:43 +0200  UPS Self Test switch to battery.
-2024-07-31 17:54:44 +0200  UPS Self Test completed: Battery OK
-2024-07-31 17:55:38 +0200  UPS Self Test switch to battery.
-2024-07-31 17:55:38 +0200  UPS Self Test completed: Battery OK
-2024-07-31 17:58:37 +0200  UPS Self Test switch to battery.
-2024-07-31 17:58:37 +0200  UPS Self Test completed: Battery OK
-2024-07-31 17:59:16 +0200  UPS Self Test switch to battery.
-2024-07-31 17:59:17 +0200  UPS Self Test completed: Battery OK
-2024-07-31 18:00:16 +0200  UPS Self Test switch to battery.
-2024-07-31 18:00:16 +0200  Power is back. UPS running on mains.
-2024-07-31 18:03:06 +0200  UPS Self Test switch to battery.
-2024-07-31 18:03:07 +0200  UPS Self Test completed: Battery OK
-2024-07-31 18:04:31 +0200  Battery disconnected.
-2024-07-31 18:04:32 +0200  Battery reattached.
-2024-07-31 18:04:36 +0200  Battery disconnected.
-2024-07-31 18:04:37 +0200  Battery reattached.
-2024-07-31 18:07:34 +0200  Battery disconnected.
-2024-07-31 18:07:35 +0200  Battery reattached.
-2024-07-31 18:09:57 +0200  Battery disconnected.
-2024-07-31 18:09:58 +0200  Battery reattached.
-2024-07-31 18:10:53 +0200  Battery disconnected.
-2024-07-31 18:10:54 +0200  Battery reattached.
-2024-07-31 18:12:19 +0200  Battery disconnected.
-2024-07-31 18:12:20 +0200  Battery reattached.
-2024-07-31 18:12:49 +0200  Battery disconnected.
-2024-07-31 18:12:50 +0200  Battery reattached.
-2024-07-31 18:14:10 +0200  Battery disconnected.
-2024-07-31 18:14:11 +0200  Battery reattached.
 2024-07-31 18:17:10 +0200  Battery disconnected.
 2024-07-31 18:17:10 +0200  Battery reattached.
 2024-07-31 18:17:53 +0200  Battery disconnected.
@@ -185,3 +146,35 @@
 2024-07-31 19:28:29 +0200  UPS Self Test completed: Battery OK
 2024-07-31 19:28:29 +0200  Battery disconnected.
 2024-07-31 19:28:40 +0200  Battery reattached.
+2024-07-31 19:30:24 +0200  UPS Self Test switch to battery.
+2024-07-31 19:30:25 +0200  UPS Self Test completed: Battery OK
+2024-07-31 19:30:25 +0200  Battery disconnected.
+2024-07-31 19:30:26 +0200  Battery reattached.
+2024-07-31 19:31:44 +0200  UPS Self Test switch to battery.
+2024-07-31 19:31:44 +0200  UPS Self Test completed: Battery OK
+2024-07-31 19:31:44 +0200  Battery disconnected.
+2024-07-31 19:31:45 +0200  Battery reattached.
+2024-07-31 19:32:13 +0200  UPS Self Test switch to battery.
+2024-07-31 19:32:14 +0200  UPS Self Test completed: Battery OK
+2024-07-31 19:32:14 +0200  Battery disconnected.
+2024-07-31 19:32:15 +0200  Battery reattached.
+2024-07-31 19:34:59 +0200  UPS Self Test switch to battery.
+2024-07-31 19:34:59 +0200  Battery disconnected.
+2024-07-31 19:34:59 +0200  Power is back. UPS running on mains.
+2024-07-31 19:35:00 +0200  Battery reattached.
+2024-07-31 19:35:48 +0200  UPS Self Test switch to battery.
+2024-07-31 19:35:49 +0200  UPS Self Test completed: Battery OK
+2024-07-31 19:35:49 +0200  Battery disconnected.
+2024-07-31 19:35:50 +0200  Battery reattached.
+2024-07-31 19:38:46 +0200  UPS Self Test switch to battery.
+2024-07-31 19:38:47 +0200  UPS Self Test completed: Battery OK
+2024-07-31 19:38:47 +0200  Battery disconnected.
+2024-07-31 19:38:48 +0200  Battery reattached.
+2024-07-31 19:40:26 +0200  UPS Self Test switch to battery.
+2024-07-31 19:40:26 +0200  UPS Self Test completed: Battery OK
+2024-07-31 19:40:26 +0200  Battery disconnected.
+2024-07-31 19:40:27 +0200  Battery reattached.
+2024-07-31 19:42:59 +0200  UPS Self Test switch to battery.
+2024-07-31 19:43:00 +0200  UPS Self Test completed: Battery OK
+2024-07-31 19:43:00 +0200  Battery disconnected.
+2024-07-31 19:43:01 +0200  Battery reattached.
