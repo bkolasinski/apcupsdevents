@@ -2462,3 +2462,19 @@
 2024-08-01 09:41:00 +0200  Battery disconnected.
 2024-08-01 09:41:00 +0200  Power is back. UPS running on mains.
 2024-08-01 09:41:01 +0200  Battery reattached.
+2024-08-01 09:46:44 +0200  UPS Self Test switch to battery.
+2024-08-01 09:46:45 +0200  UPS Self Test completed: Test failed
+2024-08-01 09:46:45 +0200  Battery disconnected.
+2024-08-01 09:46:46 +0200  Battery reattached.
+2024-08-01 09:47:34 +0200  UPS Self Test switch to battery.
+2024-08-01 09:47:34 +0200  Battery disconnected.
+2024-08-01 09:47:34 +0200  Power is back. UPS running on mains.
+2024-08-01 09:47:35 +0200  Battery reattached.
+2024-08-01 09:47:49 +0200  UPS Self Test switch to battery.
+2024-08-01 09:47:50 +0200  UPS Self Test completed: Test failed
+2024-08-01 09:47:50 +0200  Battery disconnected.
+2024-08-01 09:47:51 +0200  Battery reattached.
+2024-08-01 09:48:11 +0200  UPS Self Test switch to battery.
+2024-08-01 09:48:11 +0200  UPS Self Test completed: Test failed
+2024-08-01 09:48:11 +0200  Battery disconnected.
+2024-08-01 09:48:12 +0200  Battery reattached.
